@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		045102251D1E814B00A67CD3 /* KYWelcome.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 045102241D1E814B00A67CD3 /* KYWelcome.jpg */; };
 		047C98861CDC225B0080F8F1 /* UMengAnalyticsManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 047C98831CDC225B0080F8F1 /* UMengAnalyticsManager.m */; };
 		047C98871CDC225B0080F8F1 /* libMobClickLibrary.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 047C98841CDC225B0080F8F1 /* libMobClickLibrary.a */; };
 		120025621CE76D3800B203D4 /* RWWelcomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 120025611CE76D3800B203D4 /* RWWelcomeController.m */; };
@@ -495,7 +494,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		045102241D1E814B00A67CD3 /* KYWelcome.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = KYWelcome.jpg; sourceTree = "<group>"; };
 		047C98801CDC225B0080F8F1 /* MobClick.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobClick.h; sourceTree = "<group>"; };
 		047C98811CDC225B0080F8F1 /* MobClickSocialAnalytics.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MobClickSocialAnalytics.h; sourceTree = "<group>"; };
 		047C98821CDC225B0080F8F1 /* UMengAnalyticsManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UMengAnalyticsManager.h; sourceTree = "<group>"; };
@@ -2643,7 +2641,6 @@
 				12F07DA91D10E48900EB3EA2 /* media.png */,
 				12BCD7E51D0E42A0008DA5DC /* communityHome.png */,
 				12DFC6461D138F3900C73FDF /* textBack.png */,
-				045102241D1E814B00A67CD3 /* KYWelcome.jpg */,
 				128F40C31CFBEAE70095F69B /* GGWelcome.png */,
 				125EC7E11CFA9E9500F893BA /* admin_gg.png */,
 				12EC88571CF825F40078E9FD /* Star1.png */,
@@ -3193,7 +3190,6 @@
 				12EFFD631CD8A0C00030C74F /* Previos_un.png in Resources */,
 				12ACD8111D274B7F00B34C3C /* download-status-hold@2x.png in Resources */,
 				12F445A61D12359500511336 /* Um.png in Resources */,
-				045102251D1E814B00A67CD3 /* KYWelcome.jpg in Resources */,
 				12ACD8181D274B7F00B34C3C /* player-bg-popup-selected.png in Resources */,
 				12ACD85E1D274B7F00B34C3C /* title_background.png in Resources */,
 				12FFF0AB1CCF18FF003F58E2 /* LaunchScreen.storyboard in Resources */,
