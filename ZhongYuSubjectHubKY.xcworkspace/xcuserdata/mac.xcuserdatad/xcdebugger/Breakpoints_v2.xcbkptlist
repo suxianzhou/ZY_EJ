@@ -17,6 +17,38 @@
             endingLineNumber = "31"
             landmarkName = "-registerWithUsername:AndPassword:verificationCode:"
             landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__81-[RWRequsetManager(UserLogin) registerWithUsername:AndPassword:verificationCode:]_block_invoke"
+                  moduleName = "ZhongYuSubjectHubKY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/ZY_EJ/ZhongYuSubjectHubKY/RWRequsetManager+UserLogin.m"
+                  timestampString = "491459505.103362"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__81-[RWRequsetManager(UserLogin) registerWithUsername:AndPassword:verificationCode:]_block_invoke_2"
+                  moduleName = "ZhongYuSubjectHubKY"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/ZY_EJ/ZhongYuSubjectHubKY/RWRequsetManager+UserLogin.m"
+                  timestampString = "491459505.103542"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
